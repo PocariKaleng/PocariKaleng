@@ -1,27 +1,78 @@
-Hi, I'm Ariq Ardian 👋
+<div align="center">
 
-CTF player interested in Cryptography, Reverse Engineering, and Blockchain Security.
+Ardian
+CTF Player · Security Enthusiast
 
-I enjoy learning how things work, breaking them down, and solving challenges along the way.
+Focused on Cryptography, Reverse Engineering, and Blockchain
 
-CTF Categories
+</div>
+
+About Me
+
+I spend most of my time exploring CTF challenges and learning how systems work under the hood.
+
+My main interests are:
+
 🔐 Cryptography
 ⚙️ Reverse Engineering
-⛓️ Blockchain
+⛓️ Blockchain Security
+CTF → Analyze → Break → Understand → Repeat
 Tech Stack
 
-<p> <img src="https://skillicons.dev/icons?i=python,java,js,html,css,linux" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,js,html,css,linux,git,github" /> </p>
+
+Languages & tools I've worked with
+
+Python Java JavaScript HTML CSS Linux
 
 Currently Learning
 
-<p> <img src="https://skillicons.dev/icons?i=solidity,rust,c,cs" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=solidity,rust,c,cs" /> </p>
 
-Solidity — Smart Contracts & Blockchain
-Rust — Systems Programming
-C — Low-level Programming
-C# — Application Development
-GitHub Stats
+Technology	Focus
+Solidity	Smart Contracts & Blockchain Security
+Rust	Systems & Blockchain Development
+C	Low-Level Programming
+C#	Application Development
+CTF Focus
+cryptography:
+  - RSA
+  - AES
+  - ECC
+  - PRNG
+  - Mathematical Cryptography
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="160"/> </p>
+reverse_engineering:
+  - Static Analysis
+  - Dynamic Analysis
+  - Binary Analysis
 
-learning, breaking, understanding.
+blockchain:
+  - Smart Contracts
+  - Solidity
+  - EVM
+  - Web3 Security
+GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+<div align="center">
+
+$ whoami
+CTF Player
+
+$ focus
+Crypto / Reverse / Blockchain
+
+$ status
+still learning.
+
+<sub>break things · understand them · build better</sub>
+
+</div>
